@@ -1,5 +1,5 @@
 # About
-A Wii Menu forwarder for the Wii USB/SD loader WiiFlow in .WAD format. Does not include the actual WiiFlow application.
+A Wii Menu forwarder for the Wii USB/SD loader [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite) in .WAD format. Does not include the actual WiiFlow application.
 
 _Confirmed working on original Wii consoles and Dolphin._
 
