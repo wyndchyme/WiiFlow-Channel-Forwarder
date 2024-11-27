@@ -4,7 +4,7 @@ A Wii Menu forwarder for the Wii USB/SD loader [WiiFlow](https://github.com/Fled
 _Confirmed working on original Wii consoles and Dolphin._
 
 # Installation
-Download the .WAD file from the releases page, transfer the file to your console, and use any WAD manager homebrew app (i.e. YAWM) to install the forwarder to your Wii Menu.
+Download the .WAD file from the releases page, transfer the file to your console, and use any WAD manager homebrew app (i.e. [yawmME](https://github.com/modmii/YAWM-ModMii-Edition)) to install the forwarder to your Wii Menu.
 
 # Screenshots
 <img width="325" alt="Screenshot 2024-11-27 at 1 14 10 AM" src="https://github.com/user-attachments/assets/9843d150-41f1-4ba8-b068-aa5219d1e8c6">
