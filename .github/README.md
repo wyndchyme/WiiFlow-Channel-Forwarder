@@ -1,7 +1,7 @@
 # About
 A Wii Menu forwarder for the Wii USB/SD loader [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite) in .WAD format. Does not include the actual WiiFlow application.
 
-_Confirmed working on original Wii consoles and Dolphin._
+_Confirmed working on original Wii consoles and Dolphin. Properly scales in both 16:9 and 4:3 image modes._
 
 # Installation
 Download the .WAD file from the releases page, transfer the file to your console, and use any WAD manager homebrew app (i.e. [yawmME](https://github.com/modmii/YAWM-ModMii-Edition)) to install the forwarder to your Wii Menu.
