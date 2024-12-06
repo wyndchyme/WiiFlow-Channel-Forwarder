@@ -15,4 +15,6 @@ Forwarder DOL file built with [ModMii Classic by XFlak](https://modmii.github.io
 
 WAD file built with [CustomizeMii Mod by WiiDatabase](https://github.com/Brawl345/customizemii)
 
+vWii WAD built with [Convert2vWii by JoostinOnline](https://gbatemp.net/download/convert2vwii.37159/)
+
 Designed by [wyndchyme](https://github.com/wyndchyme)
